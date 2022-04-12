@@ -125,6 +125,11 @@ header,
     margin-left: auto;
 }
 
+.carousel-indicators li{
+    background-color: #3A879B;
+}
+
+
 .carousel .carousel-control-next-icon {
     background-image: url(../img/arrow-right-solid.svg);
 }
